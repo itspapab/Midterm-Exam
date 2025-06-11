@@ -1,10 +1,11 @@
 # Midterm Project - Python Socket Programming & Port Scanner 
 
-This repository contains two Python-based cybersecurity tools developed as part of a midterm assignment:  
+This repository contains two Python-based cybersecurity tools developed as part of my midterm:
+
 1. A basic **client-server socket communication system**
 2. A **network port scanner**
 
-The project demonstrates a practical understanding of network programming using sockets, error handling, ethical scanning, and Python best practices.
+The project is meant to demonstrate my understanding of network programming using sockets, error handling, ethical scanning, and Python.
 
 ---
 
